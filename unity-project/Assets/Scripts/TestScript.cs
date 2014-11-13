@@ -3,13 +3,14 @@ using System.Collections;
 
 public class TestScript : MonoBehaviour {
 
+    private int testingNumber;
 	// Use this for initialization
 	void Start () {
-	
+
 	}
-	
+
 	// Update is called once per frame
 	void Update () {
-	
+
 	}
 }
