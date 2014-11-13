@@ -11,7 +11,7 @@ unity-project/[Bb]uild/
 /*.user
 /*.userprefs
 /*.pidb
-/*.booprojs
+/*.booproj
 
 #Unity3D Generated File On Crash Reports
 sysinfo.txt
