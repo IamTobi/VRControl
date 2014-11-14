@@ -2,9 +2,18 @@ Unity
     Models
     http://www.blendswap.com/
 
+VR
+    http://svvr.com/
+
 Controller
     http://www.zeemote.com/zeemote-experience/
     http://www.gosphero.com/de/
+    http://tacticalhaptics.com/products/
+    http://www.acnenomor.com/4419321p1/i-want-to-be-able-to-send-data-from-a-kinect-to-an-android-app
+    http://stackoverflow.com/questions/11669561/i-want-to-be-able-to-send-data-from-a-kinect-to-an-android-app
+    https://byteway.wordpress.com/2013/05/22/communicating-an-android-phone-and-the-kinect-sensor/
+    http://pointclouds.org/documentation/tutorials/mobile_streaming.php#mobile-streaming
+    http://www.vrnerds.de/tag/motioncontroller/
 
 Documentation
     Font
