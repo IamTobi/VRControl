@@ -14,6 +14,11 @@ Controller
     https://byteway.wordpress.com/2013/05/22/communicating-an-android-phone-and-the-kinect-sensor/
     http://pointclouds.org/documentation/tutorials/mobile_streaming.php#mobile-streaming
     http://www.vrnerds.de/tag/motioncontroller/
+    Cardboard using magnetic field
+    http://forum.unity3d.com/threads/cardboard-vr-by-google-for-android-only-45.253903/
+    Leap Motion like the kinect
+    https://developer.leapmotion.com/documentation/csharp/examples/Unity_Examples.html
+
 
 Documentation
     Font
