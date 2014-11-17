@@ -4,9 +4,12 @@ Unity
 
 VR
     http://svvr.com/
+    http://ieeevr.org/2014/pdfs/Unity_Virtual_Reality.pdf
 
 Controller
     http://www.zeemote.com/zeemote-experience/
+    http://www.pocketgamer.biz/news/60323/sixense-stem-adds-full-motion-tracking-to-samsung-gear-vr/
+    http://sixense.com/
     http://www.gosphero.com/de/
     http://tacticalhaptics.com/products/
     http://www.acnenomor.com/4419321p1/i-want-to-be-able-to-send-data-from-a-kinect-to-an-android-app
