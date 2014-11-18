@@ -7,18 +7,28 @@ VR
     http://ieeevr.org/2014/pdfs/Unity_Virtual_Reality.pdf
 
 Controller
+    Gängiger Controller
     http://www.zeemote.com/zeemote-experience/
-    http://www.pocketgamer.biz/news/60323/sixense-stem-adds-full-motion-tracking-to-samsung-gear-vr/
     http://sixense.com/
-    http://www.gosphero.com/de/
+    http://www.pocketgamer.biz/news/60323/sixense-stem-adds-full-motion-tracking-to-samsung-gear-vr/
     http://tacticalhaptics.com/products/
+    http://www.vrnerds.de/tag/motioncontroller/
+
+    Kinect
     http://www.acnenomor.com/4419321p1/i-want-to-be-able-to-send-data-from-a-kinect-to-an-android-app
     http://stackoverflow.com/questions/11669561/i-want-to-be-able-to-send-data-from-a-kinect-to-an-android-app
     https://byteway.wordpress.com/2013/05/22/communicating-an-android-phone-and-the-kinect-sensor/
     http://pointclouds.org/documentation/tutorials/mobile_streaming.php#mobile-streaming
-    http://www.vrnerds.de/tag/motioncontroller/
-    Cardboard using magnetic field
+
+    Sphero
+    https://http--stackoverflowzx-com.proxee.co/questions/24275774/using-sphero-as-a-controller-how-to-calculate-movement-direction
+    https://http--stackoverflowzx-com.proxee.co/questions/tagged/sphero
+    http://www.gosphero.com/de/
+
+
+    Magnet
     http://forum.unity3d.com/threads/cardboard-vr-by-google-for-android-only-45.253903/
+
     Leap Motion like the kinect
     https://developer.leapmotion.com/documentation/csharp/examples/Unity_Examples.html
 
