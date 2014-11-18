@@ -7,14 +7,13 @@ using System;
 
 
 //Dive Head Tracking
-// copyright by Shoogee GmbH & Co. KG Refer to LICENCE.txt
+//copyright by Shoogee GmbH & Co. KG Refer to LICENCE.txt
 
 
 //[ExecuteInEditMode]
 public class OpenDiveSensor : MonoBehaviour
 {
-
-    // This is used for rotating the camera with another object
+    //This is used for rotating the camera with another object
     //for example tilting the camera while going along a racetrack or rollercoaster
     public bool add_rotation_gameobject = false;
     public GameObject rotation_gameobject;
@@ -156,7 +155,6 @@ public class OpenDiveSensor : MonoBehaviour
         {
             errormessage = "";
             show_gyro_error_message = false;
-
         }
         if (err == 1)
         {
