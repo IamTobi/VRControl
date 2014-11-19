@@ -546,7 +546,15 @@ Prefab:
     - target: {fileID: 11400004, guid: 9728cd78863290b46afd39dbecfd6ac9, type: 2}
       propertyPath: ground_gameobject
       value: 
-      objectReference: {fileID: 807114770}
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400004, guid: 9728cd78863290b46afd39dbecfd6ac9, type: 2}
+      propertyPath: downmovement
+      value: .100000001
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400004, guid: 9728cd78863290b46afd39dbecfd6ac9, type: 2}
+      propertyPath: gravity
+      value: -.300000012
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 9728cd78863290b46afd39dbecfd6ac9, type: 2}
   m_RootGameObject: {fileID: 1893421870}
@@ -835,7 +843,7 @@ MonoBehaviour:
   max_speed_ground: .100000001
   acceleration: 10
   acceleration_air: 10
-  gravity: -.180000007
+  gravity: -.300000012
   friction: .800000012
   cameraObject: {fileID: 150761259}
   groundNormal: {x: 0, y: 0, z: 0}
@@ -843,7 +851,7 @@ MonoBehaviour:
   stopmovingup: 0
   fallkillspeed: -.379999995
   collisionFlags: 0
-  ground_gameobject: {fileID: 807114770}
+  ground_gameobject: {fileID: 0}
   last_ground_pos: {x: 0, y: 0, z: 0}
   floating: 0
   autowalk: 0
