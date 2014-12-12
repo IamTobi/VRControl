@@ -1,13 +1,17 @@
 Unity
     Models
     http://www.blendswap.com/
+    turbosuqid.com
     Testing
     http://blogs.unity3d.com/2014/07/28/unit-testing-at-the-speed-of-light-with-unity-test-tools/
     https://www.assetstore.unity3d.com/en/#!/content/13802
+    http://www.talkingquickly.co.uk/2014/11/google-cardboard-unity-tutorial/
     BestPractices
     http://devmag.org.za/2012/07/12/50-tips-for-working-with-unity-best-practices/
+    http://www.gdcvault.com/play/1017839/Cross-Platform-Game-Development-Best
     LevelEditors
     http://devmag.org.za/2009/10/23/guerrilla-tool-development/
+
 
 VR
     http://svvr.com/
