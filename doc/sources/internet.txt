@@ -24,6 +24,7 @@ Controller
     http://www.pocketgamer.biz/news/60323/sixense-stem-adds-full-motion-tracking-to-samsung-gear-vr/
     http://tacticalhaptics.com/products/
     http://www.vrnerds.de/tag/motioncontroller/
+    http://www.pocketables.com/2012/05/guide-to-game-controllers-on-android.html
 
     Kinect
     http://www.acnenomor.com/4419321p1/i-want-to-be-able-to-send-data-from-a-kinect-to-an-android-app
