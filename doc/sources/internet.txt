@@ -34,6 +34,9 @@ Controller
     https://byteway.wordpress.com/2013/05/22/communicating-an-android-phone-and-the-kinect-sensor/
     http://pointclouds.org/documentation/tutorials/mobile_streaming.php#mobile-streaming
 
+    ps3
+    http://www.tutonaut.de/anleitung-android-spiele-mit-playstation-3-controller-steuern.html
+
     Sphero
     https://http--stackoverflowzx-com.proxee.co/questions/24275774/using-sphero-as-a-controller-how-to-calculate-movement-direction
     https://http--stackoverflowzx-com.proxee.co/questions/tagged/sphero
