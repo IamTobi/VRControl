@@ -33,6 +33,10 @@ Controller
     http://stackoverflow.com/questions/11669561/i-want-to-be-able-to-send-data-from-a-kinect-to-an-android-app
     https://byteway.wordpress.com/2013/05/22/communicating-an-android-phone-and-the-kinect-sensor/
     http://pointclouds.org/documentation/tutorials/mobile_streaming.php#mobile-streaming
+    http://www.electronicsnews.com.au/features/kinect-arduino-hack-for-indoor-navigation-video-
+
+    Project Tango
+    https://www.google.com/atap/projecttango/#project
 
     ps3
     http://www.tutonaut.de/anleitung-android-spiele-mit-playstation-3-controller-steuern.html
