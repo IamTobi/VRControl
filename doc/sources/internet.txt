@@ -52,6 +52,8 @@ Controller
     Leap Motion like the kinect
     https://developer.leapmotion.com/documentation/csharp/examples/Unity_Examples.html
 
+    Arduino and Unity
+    https://www.youtube.com/watch?v=EMAWe2d7lC0
 
 Documentation
     Font
