@@ -12,6 +12,8 @@ Unity
     LevelEditors
     http://devmag.org.za/2009/10/23/guerrilla-tool-development/
     https://developers.google.com/cardboard/unity/
+    Movement
+    http://glitchbeam.com/endless-runner-player-movement/
 
 
 VR

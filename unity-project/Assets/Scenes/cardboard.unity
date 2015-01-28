@@ -272,6 +272,10 @@ Prefab:
       propertyPath: enableAlignmentMarker
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 11400000, guid: b8b03d395f5734e98af91ccf44f9bf47, type: 2}
+      propertyPath: shape
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: b8b03d395f5734e98af91ccf44f9bf47, type: 2}
   m_RootGameObject: {fileID: 1427108206}
@@ -648,6 +652,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54bc13b52de3443b6bcae60dce2af338, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  head2: {fileID: 1133015246}
 --- !u!198 &955127922
 ParticleSystem:
   m_ObjectHideFlags: 0
@@ -1709,6 +1714,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 1133015247}
   - 114: {fileID: 1133015248}
+  - 114: {fileID: 1133015249}
   m_Layer: 0
   m_Name: Head
   m_TagString: Untagged
@@ -1743,6 +1749,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   target: {fileID: 0}
   updateEarly: 0
+--- !u!114 &1133015249
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1133015246}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d60e175015ce825468146e2fab5d6834, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1427108206
 GameObject:
   m_ObjectHideFlags: 0
