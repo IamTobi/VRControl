@@ -8,8 +8,7 @@ public class Autowalk : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		head = Camera.main.GetComponent<StereoController>().Head;
-		startPosition = transform.localPosition;
+
 	}
 	
 	// Update is called once per frame
